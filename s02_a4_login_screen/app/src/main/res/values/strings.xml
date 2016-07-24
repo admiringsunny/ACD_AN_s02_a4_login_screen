@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">S02A4LoginScreen</string>
+    <string name="login_screen_heading">LoginScreen</string>
+
+    <string name="email_hint">Email</string>
+    <string name="pw_hint">Password</string>
+    <string name="login_button_text">LOGIN</string>
+</resources>
